@@ -1,0 +1,73 @@
+body{
+    background-color: #f0f8ff;
+}
+
+.titulo{
+    font-size: 2rem;
+}
+.nav a{
+    font-size: 1rem;
+}
+
+.imagen-fondo{
+    margin-bottom: 2rem;
+}
+.fondo{
+    background-color: white;
+    border-radius: .5rem;
+    margin-top: .5rem;
+    
+}
+.fondo h5{
+    margin-left: .5rem;
+}
+.fondo p{
+    margin-left: .5rem;
+}
+.boton{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: .5rem;
+}
+
+.nav-separacion{
+    margin-right: 5rem;
+}
+
+/****************************************main*************************/
+.contenedor-seccion{
+    background-color: white;
+    border-radius: 1rem;
+}
+.seccion{
+    text-align: center;
+}
+.separacion{
+    margin-bottom: 1rem;
+}
+
+.botton{
+    text-align: center;
+    width: 15rem;
+    height: 7vh;
+    background-color: rgb(12, 70, 179);
+    border-radius: .5rem;
+    
+    
+    
+}
+.botton a{
+    display: flex;
+    color: white;
+    font-size: 1rem;
+    justify-content: center;
+    align-items: center;
+}
+/*********************borde de marcos imagenes ***********************/
+.border-img{
+    border-radius: 4rem;
+}
+/******************************animaciones*******************/
+:root {
+    --animate-delay: 2s;
+  }
